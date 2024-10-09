@@ -266,7 +266,7 @@ body {
     .recipe {
         margin: 8rem 0;
         border-radius: 24px;
-        padding: 40px;
+        padding: 40px 40px 0 40px;
     }
 
     .banner {
