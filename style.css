@@ -284,4 +284,8 @@ body {
     .nutrition {
         margin-bottom: 0;
     }
+
+    .nutrition-list {
+        text-align: left;
+    }
 }
