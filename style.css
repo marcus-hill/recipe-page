@@ -250,7 +250,7 @@ body {
     padding-bottom: 40px;
 }
 
-@media only screen and (min-width: 500px) {
+@media only screen and (min-width: 600px) {
     body {
         display: flex;
         min-height: 100vh;
